@@ -150,3 +150,12 @@ input[type='number'] {
 .transactions li:hover .delete-btn {
   opacity: 1;
 }
+
+footer{
+    width: 100%;
+    text-align: center;
+    padding: 25px 0;
+    background: var(--cor6);
+    font-weight: 300;
+    color: white;
+}
